@@ -76,5 +76,19 @@ figcaption {
 .wrapper  {
   width: 960px;
   margin: 0 auto;
-  background: #eee
+  background: #eee;
+}
+
+.col-1  {
+  float: left;
+  width: 32%
+}
+
+.col-2  {
+  float: left;
+  width: 64%
+}
+
+.col-3  {
+  
 }
